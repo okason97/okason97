@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on [Not Real Estate Agent](https://github.com/okason97/Not-Real-Estate-Agent)
+- 🌱 I’m currently learning Generative Artificial Intelligence, LLM and any AI novelty.
+- 👯 I’m looking to collaborate on anything Machine Learning related.
+- 💬 Ask me about anything!
+- 📫 How to reach me: okason1997@hotmail.com
+- 😄 Pronouns: Hi/Him
+- ⚡ Fun fact: I love card games!
+
 <!--
 **okason97/okason97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
