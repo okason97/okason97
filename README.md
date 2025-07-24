@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [Astarion]([github.com/kerbaras/astarion])
+- 🔭 I’m currently working on [Astarion](https://github.com/kerbaras/astarion)
 - 🌱 I’m currently learning Generative Artificial Intelligence, LLM and any AI novelty.
 - 👯 I’m looking to collaborate on anything Machine Learning related.
 - 💬 Ask me about anything!
