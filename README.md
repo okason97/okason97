@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Generative Artificial Intelligence, LLM and any AI novelty.
 - 👯 I’m looking to collaborate on anything Machine Learning related.
 - 💬 Ask me about anything!
-- 📫 How to reach me: okason1997@hotmail.com
+- 📫 How to reach me: gastongustavorios@gmail.com
 - 😄 Pronouns: Hi/Him
 - ⚡ Fun fact: I love card games!
 
